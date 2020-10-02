@@ -1,5 +1,8 @@
 .App {
-  background-color: #14142b;
+  background-color: #f0f0f0;
+  min-width: 500px;
+  min-height: 200px;
+  text-align: center;
 }
 
 .App-header {
@@ -21,23 +24,23 @@
   position: absolute;
   display: block;
   transform: translate(0, -50%);
-  top: 40%;
+  top: 36%;
   pointer-events: none;
-  width: 75px;
+  width: 50px;
   text-align: right;
   font-style: normal;
-  padding-left: 5px;
+  padding-left: 50px;
 }
 .input-currency > input {
-  padding-left: 79px;
+  padding-left: 53px;
   padding-right: 0;
 }
 
 input {
   
   color: rgba(0, 12, 80, 0.959);
-  font-size: calc(10px + 2vmin);
-  border: 5px solid #14142b ;
+  font-size: calc(10px + 1vmin);
+  border: 1px solid #14142b ;
   -webkit-box-shadow: 
     inset 0 0 1px  rgba(0,0,0,0.1),
           0 0 16px rgba(0,0,0,0.1); 
@@ -53,5 +56,15 @@ input {
 }
 
 select {
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1vmin);
+}
+
+h1 {
+  color: #14142b;
+  text-align: center;
+}
+
+h3 {
+  color: red;
+  text-align: center;
 }
