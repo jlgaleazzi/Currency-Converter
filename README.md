@@ -5,14 +5,14 @@ Assesment for Finastra by Juan L Galeazzi
 
 A currency converter that converts a user's selected base currency and outputs the equivalent money value of the exchange currency using the current day’s rate.
 
-The currents rates are fetched from(https://api.exchangeratesapi.io/latest?base=USD)
+The currents rates are fetched from <https://api.exchangeratesapi.io/latest?base=USD>
 
-It utilizes the money.js library to make the conversions [money.js]<http://openexchangerates.github.io/money.js/)>
+It utilizes the money.js library to make the conversions <http://openexchangerates.github.io/money.js/)>
 
  Clone this repository to you local machine
 to run the project locally you must have npm and node installed.
 
-### npm install
+### `npm install`
 then go the project directory and install using npm install
 
 to run the project use 
@@ -33,9 +33,9 @@ Your app is ready to be deployed!
 
 ## Learn More
 [https://api.exchangeratesapi.io ](https://api.exchangeratesapi.io/latest?base=USD) <br/>
-[money.js library](http://openexchangerates.github.io/money.js) <br/>
+[money.js](http://openexchangerates.github.io/money.js) <br/>
 [fixer.io](https://fixer.io)
 
 
-Juan L Galeazzi
+Juan L Galeazzi<br/>
 <jgaleazzi@gmail.com>
