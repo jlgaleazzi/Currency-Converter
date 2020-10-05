@@ -15,7 +15,7 @@ to run the project locally you must have npm and node installed.
 ### `npm install`
 then go the project directory and install using npm install
 
-to run the project use 
+to run the project use  
 
 ### `npm start`
 
